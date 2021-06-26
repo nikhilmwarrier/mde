@@ -1,4 +1,5 @@
 # Markdown Editor web component
+[Demo](./demo.html)
 
 ## Usage:
 
