@@ -1,4 +1,5 @@
 # Markdown Editor web component
+[Demo](https://nikhilmwarrier.github.io/mde/demo.html)
 
 ## Usage:
 
